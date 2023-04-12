@@ -1,0 +1,14 @@
+*{
+    margin: 0;padding: 0;
+   
+}
+.voting{
+    margin-top: 30vh;
+    display: flex;flex-direction: row;justify-content: space-evenly;
+    align-items: center;
+}
+.voting .item{
+    background-color: white;
+    box-shadow: 2px 2px 5px grey;
+    padding: 20px;
+}
